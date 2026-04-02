@@ -13,6 +13,12 @@ Lee un archivo CSV con registros de libros y genera un catálogo limpio y dedupl
 - Los años inválidos (negativos, futuros o no numéricos) se reemplazan por `0`.
 - La deduplicación agrupa por título normalizado y resuelve duplicados en base al autor y año de publicación.
 
+### Cómo ejecutar
+```bash
+cd ejercicio_b
+python main.py
+```
+
 
 ## Ejercicio C – Análisis de Frecuencia de Palabras
 Lee un archivo de texto y muestra las 10 palabras más frecuentes sin distinción entre mayúsculas y minúsculas y sin
@@ -20,3 +26,9 @@ considerar signos de puntuación y caracteres especiales.
 
 ### Salida
 Imprime por consola las 10 palabras más frecuentes y su cantidad de apariciones.
+
+### Cómo ejecutar
+```bash
+cd ejercicio_c
+python main.py
+```
