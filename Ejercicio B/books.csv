@@ -1,0 +1,45 @@
+Title,Author,PublicationYear
+The Hobbit,J.R.R. Tolkien,1937
+1984,George Orwell,1949
+Dune,Frank Herbert,1965
+The Great Gatsby,F. Scott Fitzgerald,1925
+Brave New World,Aldous Huxley,1932
+Foundation,Isaac Asimov,1951
+Neuromancer,William Gibson,1984
+Crime and Punishment,Fyodor Dostoevsky,1866
+Fahrenheit 451,Ray Bradbury,1953
+The Catcher in the Rye,J.D. Salinger,1951
+the hobbit,J.R.R. Tolkien,0
+1984,,1949
+Dune,Frank Herbert,1965
+The Great Gatsby,F. Scott Fitzgerald,abc
+,Isaac Asimov,1951
+Brave New World,,1932
+Foundation,Isaac Asimov,0
+Neuromancer,,1984
+Neuromancer,,2001
+Crime and Punishment,,1866
+THE HOBBIT,J.R.R. Tolkien,1937
+fahrenheit 451,Ray Bradbury,1953
+The Catcher in the Rye,,1951
+The Catcher in the Rye,,1999
+Dune,,0
+To Kill a Mockingbird,Harper Lee,1960
+The Lord of the Rings,J.R.R. Tolkien,1954
+Animal Farm,George Orwell,1945
+Slaughterhouse-Five,Kurt Vonnegut,1969
+The Alchemist,Paulo Coelho,1988
+To Kill a Mockingbird,,1960
+The Lord of the Rings,,0
+Animal Farm,George Orwell,1945
+Slaughterhouse-Five,Kurt Vonnegut,abc
+The Alchemist,,1988
+,,-99
+,,2000
+Don Quixote,Miguel de Cervantes,1605
+Moby Dick,Herman Melville,1851
+War and Peace,Leo Tolstoy,1869
+Don Quixote,Miguel de Cervantes,1605
+Moby Dick,,1851
+War and Peace,,1869
+War and Peace,,2150
